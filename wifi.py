@@ -1,8 +1,8 @@
 import network
 
 # Configure your Wi-Fi credentials
-SSID     = '<--WIFI-NETWORK-NAME-->'
-PASSWORD = '<--WIFI-PASSWORD-->'
+SSID     = 'PeachCastle'
+PASSWORD = 'Spit1500!'
 
 wlan     = network.WLAN(network.STA_IF)
 wlan.active(True)
